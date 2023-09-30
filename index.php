@@ -3,9 +3,9 @@
 //Debut
 
 	//1)Import module curl
-	 include('../connect/connect.php');
+	 include('../../connect/connect.php');
 
-    include('../module/curl.php');
+    include('../../module/curl.php');
 
 	//1)Récupérer les credentiels
 	require_once("1.recuperer_login.php");
