@@ -1,0 +1,9 @@
+<?php
+	if($codeToken==201)
+		{
+			$reponseTokenCree='OUI';  
+		}
+	else
+		{
+			$reponseTokenCree='NON';
+		}
